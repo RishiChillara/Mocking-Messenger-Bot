@@ -1,0 +1,1 @@
+A messenger bot that will return a mocking SpongeBob and an image whenever someone texts in any chat. Made with FbChat
